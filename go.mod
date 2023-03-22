@@ -1,3 +1,3 @@
-module github.com/ledgerwatch/interfaces
+module github.com/chainstack/interfaces
 
 go 1.18
